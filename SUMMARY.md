@@ -9,7 +9,7 @@
 
 ## GAMEPLAY
 
-* [📪 Bien débuter](gameplay/bien-debuter/README.md)
+* [📪 Bien débuter](gameplay/making-a-post.md)
   * [information capitale](gameplay/bien-debuter/information-capitale.md)
   * [Premiers pas sur Overky ](gameplay/bien-debuter/premiers-pas-sur-overky.md)
   * [Approfondir votre expériences](gameplay/bien-debuter/approfondir-votre-experiences.md)
