@@ -9,7 +9,11 @@
 
 ## GAMEPLAY
 
-* [📪 Making a post](gameplay/making-a-post.md)
+* [📪 Bien débuter](gameplay/bien-debuter/README.md)
+  * [information capitale](gameplay/bien-debuter/information-capitale.md)
+  * [Premiers pas sur Overky ](gameplay/bien-debuter/premiers-pas-sur-overky.md)
+  * [Approfondir votre expériences](gameplay/bien-debuter/approfondir-votre-experiences.md)
+  * [La Boutique de Overky](gameplay/bien-debuter/la-boutique-de-overky.md)
 * [📎 Understanding Projects](gameplay/understanding-projects.md)
 
 ## Les commandes
