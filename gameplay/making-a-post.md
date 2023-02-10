@@ -10,10 +10,10 @@ Vous venez d'arriver sur Paladium et vous ne savez pas par où commencer ? Nous 
 
 <mark style="color:red;">**Sommaire**</mark>
 
-1.information capitale
+<mark style="color:orange;"></mark>[<mark style="color:orange;">1.information capitale</mark>](bien-debuter/information-capitale.md)<mark style="color:orange;"></mark>
 
-2.Premiers pas sur Overky
+<mark style="color:orange;"></mark>[<mark style="color:orange;">2.Premiers pas sur Overky</mark>](bien-debuter/premiers-pas-sur-overky.md)<mark style="color:orange;"></mark>
 
-3.Approfondir votre expériences&#x20;
+<mark style="color:orange;"></mark>[<mark style="color:orange;">3.Approfondir votre expériences</mark>](broken-reference) <mark style="color:orange;"></mark>&#x20;
 
-4.La Boutique de Overky
+<mark style="color:orange;"></mark>[<mark style="color:orange;">4.La Boutique de Overky</mark>](broken-reference)<mark style="color:orange;"></mark>

@@ -8,9 +8,7 @@
 \
 <mark style="color:purple;">➤</mark> <mark style="color:purple;"></mark><mark style="color:purple;">**Fixez vous des objectifs :**</mark> augmentez votre expérience dans certains métiers, accomplissez des quêtes et anéantissez des boss pour recevoir des récompenses. \
 \
-[<mark style="color:purple;">➤ Rejoins nous des maintenant pour une aventure exclusive:</mark>](https://overky.fun) <mark style="color:purple;"></mark>  **et démarrez votre aventure, seul(e) ou entre ami(e)s.**&#x20;
-
-**.**&#x20;
+[<mark style="color:purple;">➤ Rejoins nous des maintenant pour une aventure exclusive:</mark>](https://overky.fun) <mark style="color:purple;"></mark>  **et démarrez votre aventure, seul(e) ou entre ami(e)s.** &#x20;
 
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
